@@ -1,2 +1,2 @@
-# Golden-Project_Part1
-C 44 Project
+# p5.play-boilerplate
+Boiler plate for p5.play
